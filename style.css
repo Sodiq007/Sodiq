@@ -222,7 +222,7 @@ a{
 
 
 }
-@media(max-width: 400px){
+@media(min-width: 400px){
    
     ul a{
         font-size: 18px;
