@@ -223,11 +223,7 @@ a{
 
 }
 @media(max-width: 400px){
-    span{
-        
-        font-size: 19px;
-      
-    }
+   
     ul a{
         font-size: 18px;
     }
